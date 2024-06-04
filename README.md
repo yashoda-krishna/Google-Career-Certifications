@@ -1,7 +1,26 @@
 
+### Google Advanced Data Analytics
+
+<img src="(pro) Google.png" alt="">
 
 
-<img src="alg.png" alt="">
+### Google IT Automation with Python
+<img src="(pro.png" alt="">
 
-<img src="ml.png" alt="">
 
+### Google Project Management
+
+<img src="(pro.png" alt="">
+
+
+### Google data Analytics
+
+<img src="Google data Analytics.png" alt="">
+
+
+### Google Business Intelligence Professional Certificate
+
+<img src="bi.png" alt="">
+
+
+<img src="(pro.png" alt="">
