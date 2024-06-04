@@ -1,7 +1,7 @@
 ### Google Advanced Data Analytics
 
 
-<img src="(pro)Google.png" alt="">
+<img src="(pro) Google.png" alt="">
 
 ### Foundations of Data Science
 
