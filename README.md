@@ -10,7 +10,7 @@
 
 ### Google Project Management
 
-<img src="(pro.png" alt="">
+<img src="Google Project.png" alt="">
 
 
 ### Google data Analytics
@@ -22,5 +22,3 @@
 
 <img src="bi.png" alt="">
 
-
-<img src="(pro.png" alt="">
